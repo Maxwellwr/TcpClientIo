@@ -6,3 +6,4 @@ riderModule.iml
 .idea
 MOCK_DATA*
 *.user
+/.vs
